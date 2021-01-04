@@ -26,7 +26,6 @@ Translation extension for [coc.nvim](https://github.com/neoclide/coc.nvim).
 ```jsonc
 "translator.toLang": {
   "type": "string",
-  "default": "zh",
   "description": "Target language type"
 },
 "translator.engines": {
